@@ -1,0 +1,38 @@
+
+
+
+.botao{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.452);
+  border-color: black;
+  border-radius: 15%;
+  width: 40px;
+}
+
+input{
+  color: #8707ff;
+  border: 2px solid #8707ff;
+  border-radius: 10px;
+  padding: 10px 25px;
+  background: transparent;
+  max-width: 190px;
+}
+
+#operacao{
+  border-radius: 10px;
+  border: 2px solid #8707ff;
+  color: #8707ff;
+}
+
+.erro{
+color: aliceblue;
+background-color: rgba(185, 6, 6, 0.719);
+margin: 5px;
+
+}
+
+#resultado{
+  color: #8707ff;
+
+}
+
